@@ -13,6 +13,5 @@ public class URI1001 {
 		sc.close();
 	}
 
-
 	}
 

@@ -1,4 +1,4 @@
-# Aprendendo a linguagem java
+# Aprendendo a linguagem Java
 
 ## Objetivo
 

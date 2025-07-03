@@ -1,0 +1,17 @@
+Eclipse
+.classpath
+.project
+.settings/
+
+Compilados Java
+bin/
+module-info.java
+*.class
+
+Arquivos temporários
+*.log
+*.tmp
+
+Arquivos do sistema (Windows, Mac)
+Thumbs.db
+.DS_Store
